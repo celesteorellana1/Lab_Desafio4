@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1HerenciaCalculadora", "Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora.csproj", "{5DFD8D7E-28A8-4A29-90DE-EB38478BE121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFD8D7E-28A8-4A29-90DE-EB38478BE121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFD8D7E-28A8-4A29-90DE-EB38478BE121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFD8D7E-28A8-4A29-90DE-EB38478BE121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFD8D7E-28A8-4A29-90DE-EB38478BE121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57288E41-C14E-4504-8C16-045E0717A7AD}
+	EndGlobalSection
+EndGlobal

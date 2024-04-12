@@ -1,0 +1,7 @@
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\bin\Debug\Desafio2Notificaciones.exe.config
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\bin\Debug\Desafio2Notificaciones.exe
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\bin\Debug\Desafio2Notificaciones.pdb
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\obj\Debug\Desafio2Notificaciones.csproj.AssemblyReference.cache
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\obj\Debug\Desafio2Notificaciones.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\obj\Debug\Desafio2Notificaciones.exe
+C:\Users\CELESTE ORE\source\repos\Desafio2Notificaciones\Desafio2Notificaciones\obj\Debug\Desafio2Notificaciones.pdb

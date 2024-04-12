@@ -1,0 +1,14 @@
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\bin\Debug\net8.0\Desafio1HerenciaCalculadora.exe
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\bin\Debug\net8.0\Desafio1HerenciaCalculadora.deps.json
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\bin\Debug\net8.0\Desafio1HerenciaCalculadora.runtimeconfig.json
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\bin\Debug\net8.0\Desafio1HerenciaCalculadora.dll
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\bin\Debug\net8.0\Desafio1HerenciaCalculadora.pdb
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.AssemblyInfoInputs.cache
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.AssemblyInfo.cs
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.dll
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\refint\Desafio1HerenciaCalculadora.dll
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.pdb
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\Desafio1HerenciaCalculadora.genruntimeconfig.cache
+C:\Users\CELESTE ORE\source\repos\Desafio1HerenciaCalculadora\Desafio1HerenciaCalculadora\obj\Debug\net8.0\ref\Desafio1HerenciaCalculadora.dll
